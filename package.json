@@ -1,0 +1,22 @@
+{
+    "name": "mininodeapp",
+    "description": " A node starter app to implement routers in a node app, application does not contain html or front end logic\n\
+it is pure server side node app only",
+    "version": "0.0.1",
+    "main": "./myserver.js",
+    "author": {
+        "name": "sid",
+        "email": "skohli0302@gmail.com"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/skohli0302/mininodeapp.git"
+    },
+    "bugs": {
+        "web": "http://github.com/skohli0302/mininodeapp/issues"
+    }
+}
