@@ -34,6 +34,18 @@ route.for ('GET', '/end', function(request, response) {
     response.end();
 });
 
+route.for("POST", "/echo", function(request, response) {
+    var data= "";
+    request.on('data', function(chunk) {
+        data += chunk.toString();
+    });
+    request.on('end', function() {
+        response.writeHead(200, {"Content-Type": "text/plain"});
+        response.write(data);
+        response.end();
+    });
+});
+
 
 /*
  * Generic callback handler for every http request
@@ -49,6 +61,7 @@ function onRequest(request, response) {
         response.end('404 not found');
     }
 }
+
 
 //creating server with onRequest as a callback
 http.createServer(onRequest).listen(9999);
