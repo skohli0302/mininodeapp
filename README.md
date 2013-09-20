@@ -10,7 +10,7 @@
 
 * A Get Request
 
-![Screenshot](http://drive.google.com/uc?export=view&id=0BzcZY_2RUZoaanJHcnpaQ0c0YzA)
+![Screenshot](wiki/images/getrequest.png)
 
 
 * Response to a Get Request
