@@ -5,27 +5,27 @@
 
 * Get Request Handler
 
-![ScreenShot](http://drive.google.com/uc?export=view&id=0BzcZY_2RUZoaYjhXb0syM1BlS1U)
+![ScreenShot](https://github.com/skohli0302/mininodeapp/wiki/images/gethandler.png)
 
 
 * A Get Request
 
-![Screenshot](wiki/images/getrequest.png)
+![Screenshot](https://github.com/skohli0302/mininodeapp/wiki/images/getrequest.png)
 
 
 * Response to a Get Request
-![Screenshot](http://drive.google.com/uc?export=view&id=0BzcZY_2RUZoaWF8tYl9FYnpHQ0k)
+![Screenshot](https://github.com/skohli0302/mininodeapp/wiki/images/getresponse.png)
 
 
 * POST Request Handler
 
-![Screenshot](http://drive.google.com/uc?export=view&id=0BzcZY_2RUZoaa3BIbU1va0duMjg)
+![Screenshot](https://github.com/skohli0302/mininodeapp/wiki/images/posthandler.png)
 
 * A POST Request to server
 
-![Screenshot](http://drive.google.com/uc?export=view&id=0BzcZY_2RUZoaa0llbUx0WGhoNlE)
+![Screenshot](https://github.com/skohli0302/mininodeapp/wiki/images/postrequest.png)
 
 
 * Response from Server
 
-![Screenshot](http://drive.google.com/uc?export=view&id=0BzcZY_2RUZoaZ1FMZUhJLTZBNVU)
+![Screenshot](https://github.com/skohli0302/mininodeapp/wiki/images/postresponse.png)
